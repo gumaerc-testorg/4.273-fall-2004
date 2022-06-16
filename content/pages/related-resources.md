@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to external web sites on evolutionary computation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

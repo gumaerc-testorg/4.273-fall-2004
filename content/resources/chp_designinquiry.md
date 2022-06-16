@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-273-introduction-to-design-inquiry-fall-2004/3fcab3e424ebd304f9c1474efbc23684_chp_designinquiry.gif
+file: /courses/4-273-introduction-to-design-inquiry-fall-2004/3fcab3e424ebd304f9c1474efbc23684_chp_designinquiry.gif
 file_type: image/gif
 image_metadata:
   caption: ''
