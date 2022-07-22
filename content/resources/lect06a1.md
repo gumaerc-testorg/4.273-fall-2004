@@ -5,6 +5,7 @@ file: /courses/4-273-introduction-to-design-inquiry-fall-2004/30dba647f4fd868952
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect06a1.pdf
 uid: 30dba647-f4fd-8689-52fc-dc5be35b778e
 ---
 Lecture Notes File.
-
