@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture Notes File.
 file: /courses/4-273-introduction-to-design-inquiry-fall-2004/30dba647f4fd868952fcdc5be35b778e_lect06a1.pdf
+file_size: 2012612
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
