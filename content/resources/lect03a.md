@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture Notes File.
-file: /courses/4-273-introduction-to-design-inquiry-fall-2004/aa4df8748bba1dcfc65008915baf67bb_lect03a.pdf
+file: /ol-ocw-studio-app/courses/4-273-introduction-to-design-inquiry-fall-2004/aa4df8748bba1dcfc65008915baf67bb_lect03a.pdf
 file_size: 44120
 file_type: application/pdf
 learning_resource_types:
