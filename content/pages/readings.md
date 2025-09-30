@@ -21,7 +21,7 @@ READINGS
 Metaphors We Design and Compute By
 {{< tdclose >}}{{< tdopen >}}
 
-[Lakoff, G](http://www.linguistics.berkeley.edu/lingdept/Current/people/facpages/lakoffg.html). "The Contemporary Theory of Metaphor." In *Metaphor and Thought*. Edited by A. Ortony. Cambridge: Cambridge University Press, November 26, 1993, pp. 202-251. ISBN: 0521405610.
+{{% resource_link "f8472cd5-facd-4171-a971-b4a00bdffd02" "Lakoff, G" %}}. "The Contemporary Theory of Metaphor." In *Metaphor and Thought*. Edited by A. Ortony. Cambridge: Cambridge University Press, November 26, 1993, pp. 202-251. ISBN: 0521405610.
 
 Coyne, R. "Computers, Metaphors, and Change." *Arq* 1 (1995): 62-67.
 
@@ -30,7 +30,7 @@ Travers, M. D. "Metaphors and Models for Computation." Chapter 2 in *Programming
 
 *Optional Readings*
 
-[Agre, P. E](http://polaris.gseis.ucla.edu/pagre/). *Computation and Human Experience (Learning in Doing: Social, Cognitive and Computational Perspectives)*. Cambridge: Cambridge University Press. 1997. ISBN: 0521386039. (go through chapter 2 "Metaphor in practice" and chapter 3 "Machinery and dynamics" excerpt)
+{{% resource_link "cafcf3e6-67b0-49b6-81f4-60df5dfbbd50" "Agre, P. E" %}}. *Computation and Human Experience (Learning in Doing: Social, Cognitive and Computational Perspectives)*. Cambridge: Cambridge University Press. 1997. ISBN: 0521386039. (go through chapter 2 "Metaphor in practice" and chapter 3 "Machinery and dynamics" excerpt)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 01b
@@ -64,7 +64,7 @@ Silent Game (cont.)
 Design, Rules, and Cognition
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631167) Mitchell, William J. *The Logic of Architecture. Design, Computation and Cognition*. Cambridge: MIT Press, 1990, pp. 131-181. ISBN: 9780262631167.
+{{% resource_link "78664408-3774-441c-8390-2a53cc9d988c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. *The Logic of Architecture. Design, Computation and Cognition*. Cambridge: MIT Press, 1990, pp. 131-181. ISBN: 9780262631167.
 
 Nagakura, T. "Shape Recognition and Transformation" In *Electronic Design Studio*. Edited by Malcolm McCullough, William J. Mitchell, and Patrick Purcell. Cambridge: MIT Press, September 10, 1990, pp. 149-170. ISBN: 0262132540.
 
@@ -96,7 +96,7 @@ Schoenauer, M., and Z. Michalewicz. "Evolutionary Computation" *Control and Cybe
 
 O'Reilly, U., et. al. "Agent-GP: Agent-Based Genetic Programming for Design." *Paper Presented at the 2001 Genetic and Evolutionary Computation Conference \[GECCO\].* July 7-11, 2001, San Francisco, California, USA.
 
-Sims, K. "Evolving Virtual Creatures." *Computer Graphics.* Annual Conference Series, (SIGGRAPH '94 Proceedings), (1994): 15-22. ([PDF](http://www.robots.ox.ac.uk/~cvrg/trinity2002/EC/siggraph94.pdf))
+Sims, K. "Evolving Virtual Creatures." *Computer Graphics.* Annual Conference Series, (SIGGRAPH '94 Proceedings), (1994): 15-22. ({{% resource_link "b99e7d2d-0c05-40fe-9350-42730ff1cf83" "PDF" %}})
 
 *Optional Readings*
 
@@ -108,13 +108,13 @@ Koza, J. R. "Survey of Genetic Algorithms and Genetic Programming." In *Proceedi
 Visual Calculating
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262532617/virtual-music/) Minsky, M. *The Society of Mind*. New York: Touchstone, 1985, pp. 133-135. ISBN: 0671657135. \[Read sections 13.1, 13.2, 13.3 (Reformulation, Boundaries, Seeing and Believing)\]
+{{% resource_link "de8f8dca-a0aa-4316-879b-301d589c6036" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Minsky, M. *The Society of Mind*. New York: Touchstone, 1985, pp. 133-135. ISBN: 0671657135. \[Read sections 13.1, 13.2, 13.3 (Reformulation, Boundaries, Seeing and Believing)\]
 
 Stiny, G. "New Ways to Look at Things." *Environment and Planning B: Planning and Design.* Anniversary Issue, 1998, pp. 68-75.
 
 Knight, T. W. "Shape Grammars." In *Environment and Planning B: Planning and Design.* Anniversary Issue, 1998, pp. 86-91.
 
-Excerpt from Cope, D. "Artificial Intelligence and Artificial Creativity." In [*Virtual Music*](https://mitpress.mit.edu/9780262532617/virtual-music/)*.* Cambridge: MIT Press, 2001, pp. 323-324.
+Excerpt from Cope, D. "Artificial Intelligence and Artificial Creativity." In {{% resource_link "de8f8dca-a0aa-4316-879b-301d589c6036" "*Virtual Music*" %}}*.* Cambridge: MIT Press, 2001, pp. 323-324.
 
 Excerpt from Bamberger, J. S. "Developing Musical Structures: A Reflective Practicum." *MIT Faculty Newsletter* 17, no. 1 (Sept/Oct, 2004). \[Comments about the music fundamentals course Bamberger has taught at MIT for many years.\]
 
@@ -156,7 +156,7 @@ Digital Fabricating (cont.)
 Design Tooling
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262510875) Abelson, H. and G. Sussman. *Structure and Interpretation of Computer Programs*. Cambridge, MA: MIT Press, 1996. ISBN: 9780262510875. \[Read forewords and excerpts.\]
+{{% resource_link "697d890e-7f93-4118-8ca9-6b635fdfbc90" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Abelson, H. and G. Sussman. *Structure and Interpretation of Computer Programs*. Cambridge, MA: MIT Press, 1996. ISBN: 9780262510875. \[Read forewords and excerpts.\]
 
 Alexander, C. *Notes on the Synthesis of Form*. Cambridge, MA: Harvard University Press, 1994, pp. 73-95. ISBN: 0674627512.
 
@@ -168,13 +168,13 @@ Maeda, J. *Creative Code: Aesthetics + Computation*. London: Thames & Hudson, 20
 
 *Optional Readings*
 
-Hung, C.K. and J. Frazer and T.M. Xi. *Interactive Evolutionary Design in a Hierarchical Way.* ([PDF](http://www.generativeart.com/on/cic/ga2001_PDF/frazer.pdf))
+Hung, C.K. and J. Frazer and T.M. Xi. *Interactive Evolutionary Design in a Hierarchical Way.* ({{% resource_link "0d56f5ae-3cf3-4f93-b412-821102f2a844" "PDF" %}})
 
-Jefferson, D. et al. [*The Genesys System: Evolution as a Theme in Artificial Life*](http://www.cs.ucla.edu/~dyer/Papers/AlifeTracker/Alife91Jefferson.html).
+Jefferson, D. et al. {{% resource_link "7005528e-df49-4a21-a563-9a060e84aafc" "*The Genesys System: Evolution as a Theme in Artificial Life*" %}}.
 
-Sims, K. "Evolving Virtual Creatures." *Computer Graphics.* Annual Conference Series, (SIGGRAPH '94 Proceedings), (1994): 15-22. ([PDF](http://www.robots.ox.ac.uk/~cvrg/trinity2002/EC/siggraph94.pdf))
+Sims, K. "Evolving Virtual Creatures." *Computer Graphics.* Annual Conference Series, (SIGGRAPH '94 Proceedings), (1994): 15-22. ({{% resource_link "b99e7d2d-0c05-40fe-9350-42730ff1cf83" "PDF" %}})
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262521901) ———. "Evolving 3D Morphology and Behavior by Competition." In *Artificial Life IV Proceedings* . Edited by R. Brooks and P. Maes. Cambridge, MA: MIT Press, 1994, pp. 28-39. ISBN: 9780262521901.
+{{% resource_link "18c40618-6690-4cbc-92ad-cccbe7e90791" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "Evolving 3D Morphology and Behavior by Competition." In *Artificial Life IV Proceedings* . Edited by R. Brooks and P. Maes. Cambridge, MA: MIT Press, 1994, pp. 28-39. ISBN: 9780262521901.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 07b
